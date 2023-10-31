@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+.Header{
+    background-image: url("../../Images/header.png");   
+    
+    border-radius: 0px 0px 50% 0px;
+}
+.button{
+    border: 1px solid white;
+}
+.header-text {
+    line-height: 70px;
+}
+@media screen and (max-width: 768px) {
+    .Header{
+        background-image: url("../../Images/header.png");   
+        
+        border-radius: 0px 0px 0px 0px;
+    }
+    .main-text{
+        color: white ;
+    }
+    .Header{
+        background-color: #0F2137;
+        background-image: none;
+    }
+  }
