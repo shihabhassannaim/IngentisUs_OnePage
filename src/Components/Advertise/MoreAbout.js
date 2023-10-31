@@ -6,7 +6,7 @@ import howItWorks from '../../Images/how its works.png'
 
 const MoreAbout = () => {
     return (
-        <div className='hidden md:block'>
+        <section className='hidden md:block'>
             <div className='flex mt-24 ml-24'>
                 <div className='w-3/5'><img className='w-11/12' src={moreAboutImage} alt="" /></div>
                 <div className='mt-16'>
@@ -42,7 +42,7 @@ const MoreAbout = () => {
             <div className='mt-20'>
                 <img src={howItWorks} alt="" />
             </div>
-        </div>
+        </section>
     );
 };
 

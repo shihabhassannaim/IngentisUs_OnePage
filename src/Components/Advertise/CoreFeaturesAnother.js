@@ -4,7 +4,7 @@ import successfullImage from '../../Images/workCompleted.png'
 
 const CoreFeaturesAnother = () => {
     return (
-        <div>
+        <section>
             <div className='md:flex md:flex-row flex flex-col-reverse mt-10 md:ml-32'>
                 <div className='md:w-1/2 mt-20 '>
                     <p className='text-sm font-bold md:block flex justify-center'>CORE FEATURES</p>
@@ -25,7 +25,7 @@ const CoreFeaturesAnother = () => {
                     Which WE have Successfully Done</p>
                 <img className='mt-10 ' src={successfullImage} alt="" />
             </div>
-        </div>
+        </section>
     );
 };
 

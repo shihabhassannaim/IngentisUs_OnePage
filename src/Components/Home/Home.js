@@ -6,17 +6,20 @@ import CoreFeaturesAnother from '../Advertise/CoreFeaturesAnother';
 import MoreAbout from '../Advertise/MoreAbout';
 import Testimunial from '../Testimunial/Testimunial';
 import About from '../About/About';
+import Navbar from '../Header/Navbar';
 
 const Home = () => {
     return (
-        <div>
+        <section id='home'>
+            <Navbar/>
+            <Header/>
             <Advertise />
             <CoreFeatures />
             <CoreFeaturesAnother />
             <MoreAbout />
             <Testimunial />
             <About />
-        </div>
+        </section>
     );
 };
 

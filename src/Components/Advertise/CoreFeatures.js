@@ -7,7 +7,7 @@ import smartFeatures from '../../Images/SmartFeatures.png'
 
 const CoreFeatures = () => {
     return (
-        <div className='md:flex mt-24 md:ml-36'>
+        <section className='md:flex mt-24 md:ml-36'>
             <div className='md:w-1/2 md:ml-12 flex justify-center md:block '>
                 <img className='coreFeatures' src={coreFeaturesPicture} alt="" />
             </div>
@@ -31,7 +31,7 @@ const CoreFeatures = () => {
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
     );
 };
 

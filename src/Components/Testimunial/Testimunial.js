@@ -5,7 +5,7 @@ import myImage from '../../Images/my image.jpg'
 
 const Testimunial = () => {
     return (
-        <div className='ml-10 hidden md:block'>
+        <section className='ml-10 hidden md:block'>
             <p className='text-center text-lg mt-10 text-blue-600'>TESTIMUNIAL</p>
             <p className='text-center text-4xl'>Meet Client Satisfaction</p>
             <div className='flex mr-10 mt-10'>
@@ -58,7 +58,7 @@ const Testimunial = () => {
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
     );
 };
 

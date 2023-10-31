@@ -7,8 +7,7 @@ import Navbar from './Navbar';
 
 const Header = () => {
     return (
-        <div className='Header sm:pl-10 md:pl-24 pt-5 bg-container pb-10 '>
-            <Navbar />
+        <section className='Header sm:pl-10 md:pl-24 pt-5 bg-container pb-10 '>
             <div className='mt-14 md:mt-24 text-white static z-0'>
                 <div className='main-text header-text font-bold text-center md:text-start flex md:ml-9 text-4xl md:text-5xl md:justify-start justify-center tracking-wider'><p>Experience Your<br/> Ultimate Digital <br />
 Services</p></div>
@@ -27,7 +26,7 @@ design system guidelines ever.</p></div>
                     <img className='h-6 ml-5 pt-2' src={Dropbox} alt="" />
                 </div>
             </div>
-        </div>
+        </section>
     );
 };
 

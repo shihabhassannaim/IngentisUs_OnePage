@@ -6,7 +6,7 @@ import Header from '../Header/Header';
 
 const Advertise = () => {
     return (
-        <div className='mt-20'>
+        <section id='advertise' className='mt-20'>
             <div className='text-center'>
                 <p className='text-[#244886] text-base md:text-xl tracking-widest'>Quality features.</p>
                 <p className='text-2xl md:text-5xl font-semibold mt-4'>Meet exciting feature of services</p>
@@ -28,7 +28,7 @@ const Advertise = () => {
                     <p className='text-[#343D48] tracking-wide md:mb-0 mb-10'>Get your blood tests delivered at <br /> home collect a sample from the <br />your blood tests.</p>
                 </div>
             </div>
-        </div>
+        </section>
     );
 };
 
