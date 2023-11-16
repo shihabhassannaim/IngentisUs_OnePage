@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/IngentisUs_OnePage/static/css/main.e4ea0497.css",
-    "main.js": "/IngentisUs_OnePage/static/js/main.69ab1cff.js",
-    "static/js/787.fad854ba.chunk.js": "/IngentisUs_OnePage/static/js/787.fad854ba.chunk.js",
-    "static/media/header.png": "/IngentisUs_OnePage/static/media/header.c6a5129b5ceac3cde65e.png",
-    "static/media/how its works.png": "/IngentisUs_OnePage/static/media/how its works.ba40e61de756020230cb.png",
-    "static/media/App-image.png": "/IngentisUs_OnePage/static/media/App-image.2a8b55dbcb997dd4ce66.png",
-    "static/media/Core features another.png": "/IngentisUs_OnePage/static/media/Core features another.d74abcb9393ae7a45e70.png",
-    "static/media/workCompleted.png": "/IngentisUs_OnePage/static/media/workCompleted.a6459d2a1e757d12bea2.png",
-    "static/media/company 1.png": "/IngentisUs_OnePage/static/media/company 1.233e352906b7983ab5a1.png",
-    "static/media/web-design 1.png": "/IngentisUs_OnePage/static/media/web-design 1.c6c6565292821c91c7b0.png",
-    "static/media/my image.jpg": "/IngentisUs_OnePage/static/media/my image.69900730b5ab472a268b.jpg",
-    "static/media/appDevelopment.png": "/IngentisUs_OnePage/static/media/appDevelopment.a276efa9e465668305a2.png",
-    "static/media/Digital campaign.png": "/IngentisUs_OnePage/static/media/Digital campaign.c6b2e61d3ef935ed7521.png",
-    "index.html": "/IngentisUs_OnePage/index.html",
-    "main.e4ea0497.css.map": "/IngentisUs_OnePage/static/css/main.e4ea0497.css.map",
-    "main.69ab1cff.js.map": "/IngentisUs_OnePage/static/js/main.69ab1cff.js.map",
-    "787.fad854ba.chunk.js.map": "/IngentisUs_OnePage/static/js/787.fad854ba.chunk.js.map"
+    "main.css": "/static/css/main.2bfee23e.css",
+    "main.js": "/static/js/main.8e234aba.js",
+    "static/js/787.fad854ba.chunk.js": "/static/js/787.fad854ba.chunk.js",
+    "static/media/header.png": "/static/media/header.c6a5129b5ceac3cde65e.png",
+    "static/media/how its works.png": "/static/media/how its works.ba40e61de756020230cb.png",
+    "static/media/App-image.png": "/static/media/App-image.2a8b55dbcb997dd4ce66.png",
+    "static/media/Core features another.png": "/static/media/Core features another.d74abcb9393ae7a45e70.png",
+    "static/media/workCompleted.png": "/static/media/workCompleted.a6459d2a1e757d12bea2.png",
+    "static/media/company 1.png": "/static/media/company 1.233e352906b7983ab5a1.png",
+    "static/media/web-design 1.png": "/static/media/web-design 1.c6c6565292821c91c7b0.png",
+    "static/media/my image.jpg": "/static/media/my image.69900730b5ab472a268b.jpg",
+    "static/media/appDevelopment.png": "/static/media/appDevelopment.a276efa9e465668305a2.png",
+    "static/media/Digital campaign.png": "/static/media/Digital campaign.c6b2e61d3ef935ed7521.png",
+    "index.html": "/index.html",
+    "main.2bfee23e.css.map": "/static/css/main.2bfee23e.css.map",
+    "main.8e234aba.js.map": "/static/js/main.8e234aba.js.map",
+    "787.fad854ba.chunk.js.map": "/static/js/787.fad854ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4ea0497.css",
-    "static/js/main.69ab1cff.js"
+    "static/css/main.2bfee23e.css",
+    "static/js/main.8e234aba.js"
   ]
 }
